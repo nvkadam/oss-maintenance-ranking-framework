@@ -1,5 +1,3 @@
-# OSS Maintenance Ranking Framework (OMRF)
-
 An uncertainty-aware decision-support framework for evaluating and ranking Open-Source Software (OSS) maintenance performance using Interval-Valued Intuitionistic Fuzzy Parameterized Fuzzy Soft Sets (IVIFP-IVIFPSS), the d-set ranking framework, temporal analysis, sensitivity analysis, and Bugzilla lifecycle data.
 
 ## Repository Structure
